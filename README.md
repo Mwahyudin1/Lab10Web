@@ -29,3 +29,7 @@
   ![Imgur-7](https://i.imgur.com/fHy4dOV.png)
   ![Imgur-8](https://i.imgur.com/zfDsSOo.png)
   ![Imgur-9](https://i.imgur.com/xpqWvpy.png)
+
+# Tugas
+
+- Implementasikan konsep modularisasi pada kode program pada praktukum sebelumnya dengan menggunakan class library untuk `form` dan `database connection`.
