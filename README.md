@@ -33,3 +33,17 @@
 # Tugas
 
 - Implementasikan konsep modularisasi pada kode program pada praktukum sebelumnya dengan menggunakan class library untuk `form` dan `database connection`.
+- Disini saya membuat file baru dengan nama `index.php` untuk `mengimplementasikan` menggunakan `class` `library` pada program praktikum sebelumnya.
+- Kode `index.php`.
+  ![Imgur-10](https://i.imgur.com/HKf9dCJ.png)
+
+- Kode `database.php`.
+  ![Imgur-11](https://i.imgur.com/fHy4dOV.png)
+  ![Imgur-12](https://i.imgur.com/zfDsSOo.png)
+  ![Imgur-13](https://i.imgur.com/xpqWvpy.png)
+
+- Kode `form.php`.
+  ![Imgur-14](https://i.imgur.com/yd6OBhd.png)
+
+- Hasilnya.
+  ![Imgur-15](https://i.imgur.com/Ckkxd0I.png)

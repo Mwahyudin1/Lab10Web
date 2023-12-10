@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 40rem;
+  margin: 30px auto;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 20px 0px #ccc;
+}
+
+.container-header {
+  text-align: center;
+  border-bottom: 2px solid #ccc;
+}
+
+.pilih {
+  margin: -10px 0 15px 0;
+}
+
+.pilih a {
+  text-decoration: none;
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+tabel {
+  display: grid;
+}
+
+form input[type="text"],
+form textarea {
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+form input[type="submit"] {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 34rem;
+}
+
+footer p {
+  text-align: right;
+  font-family: monospace;
+  margin-bottom: -15px;
+}
