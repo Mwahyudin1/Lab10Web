@@ -40,7 +40,6 @@
 - Kode `database.php`.
   ![Imgur-11](https://i.imgur.com/fHy4dOV.png)
   ![Imgur-12](https://i.imgur.com/zfDsSOo.png)
-  ![Imgur-13](https://i.imgur.com/xpqWvpy.png)
 
 - Kode `form.php`.
   ![Imgur-14](https://i.imgur.com/yd6OBhd.png)
